@@ -1,6 +1,7 @@
 'scopeName': 'source.js'
 'fileTypes': [
   'js'
+  'jsm'
   'htc'
   '_js'
   'es6'
